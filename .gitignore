@@ -15,8 +15,8 @@ staticfiles/
 .vscode/
 
 # Logs
-logs/
-*.log
+logs/*.log
+!logs/.gitkeep
 
 # Environment
 .env
