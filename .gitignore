@@ -14,10 +14,11 @@ staticfiles/
 # VS Code
 .vscode/
 
-# Logs
 logs/*.log
 !logs/.gitkeep
 
+employees/logs/*.log
+!employees/logs/.gitkeep
 # Environment
 .env
 
